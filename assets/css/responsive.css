@@ -1,0 +1,1260 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .fSMwiget h5 { 
+        font-size: 16px; 
+    }
+    a.slider-play { 
+        left: 54%; 
+    }
+    .services-area .services-box p {
+        font-size: 17px; 
+        padding-bottom: 5px;
+    }
+    .services-area .services-box h2 { 
+        font-size: 36px; 
+    }
+    .theme-btn {
+        font-size: 16px;
+        display: inline-block;
+        border: 2px solid #0084bf;
+        padding: 0px 15px;
+        color: #0084bf;
+        transition: .3s;
+        font-family: Source Sans Pro;
+        font-weight: 600;
+        line-height: 30px;
+    }
+    .hero-wrepper { 
+        padding-left: 50px;
+    }
+
+
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .herder-bottom .menu-area li a { 
+        font-size: 20px; 
+        padding: 35px 0;
+        margin-left: 20px; 
+    }
+    .herder-bottom .menu-area li a.demo-btn {
+        font-size: 17px;
+        color: #0084bf;
+        border: 2px solid #0084bf;
+        padding: 6px 15px;
+        transition: .3s;
+        margin-left: 35px;
+    }
+    .hero-wrepper {
+        padding: 200px 0;
+        padding-left: 82px;
+    }
+
+    a.slider-play { 
+        left: 55%; 
+        padding-left: 25px;
+    }
+    .services-area .services-box h2 { 
+        font-size: 36px; 
+    }
+    .services-area .services-box p {
+        font-size: 15px; 
+        padding-bottom: 5px;
+        line-height: 23px;
+    }
+    .theme-btn {
+        font-size: 15px; 
+        padding: 0px 12px; 
+        line-height: 30px;
+    }
+    .services-area {
+        padding-bottom: 140px; 
+    }
+    .about-wrepper h5 {
+        font-size: 16px;
+        font-family: HelveticaBold;
+        color: #fff;
+        line-height: 30px;
+    }
+    .about-wrepper h3 {
+        font-size: 26px; 
+    }
+    .about-wrepper { 
+        bottom: 10px;
+        left: 20px; 
+    }
+    .about-box img {
+        width: 100%;
+        height: 430px;
+    }
+    .customars-brand img {
+        width: 100%; 
+    }
+    .customars-area .row.pt-40 {
+        padding-top: 0;
+    }
+    .footer-wiget-right.fSMwiget { 
+        padding-left: 0;
+        height: 370px;
+    }
+    .footer-wiget-right.fSMwiget:after{
+        display: none
+    }
+    .fSMwiget { 
+        height: 250px; 
+    }
+
+    .footer-wiget-right.fSMwiget a {
+        display: inline-block; 
+        font-size: 16px; 
+        margin-right: 30px;
+    }
+    .mega-menu .menu-list a.lst-teg {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .mega-menu .menu-list { 
+        height: 320px; 
+    }
+    .mega-menu .menu-list ul li a {
+        font-size: 15px;
+        padding: 11px 0;
+    }
+    .mega-menu .menu-list p {
+        font-size: 13px;
+        margin-top: 15px;
+        line-height: 16px;
+    }
+    .mega-menu .menu-list ul li {
+        line-height: 30px;
+    }
+    .mega-menu .menu-list h5 {
+        font-size: 22px;
+    }
+    .press-box p { 
+        font-size: 17px; 
+    }
+    .account-wrepper.pt-100 {
+        padding-top: 40px;
+    }
+    .busness-wrepper h1 {
+        font-size: 36px; 
+    } 
+    
+    .education-wrepper.pt-120 {
+        padding-top: 0;
+    }
+    .effectiv-box {
+        background: #fff;
+        margin-top: 50px;
+        padding: 39px;
+        width: 100%;
+        display: flex;
+    }
+    .effectiv-box h1 {
+        margin: 0;
+        padding: 0;
+        margin-right: 44px;
+        font-size: 65px;
+        color: #44712E;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: 400;
+        line-height: 60px;
+    }
+    .second-step .education-wrepper p {
+        padding-right: 0;
+    }
+    .education-wrepper h2 {
+        font-size: 48px; 
+    }
+
+
+
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .herder-bottom .menu-area li a {
+        font-family: Source Sans Pro;
+        font-size: 17px;
+        text-transform: capitalize;
+        color: #0073b1;
+        padding: 35px 0;
+        margin-left: 16px;
+        position: relative;
+    }
+    .herder-bottom .menu-area li a.demo-btn {
+        font-size: 16px;
+        padding: 6px 10px;
+        margin-left: 23px;
+    }
+    .header-top ul li a {
+        display: inline-block;
+        color: #fff;
+        font-size: 16px;
+        font-family: 'Source Sans Pro';
+        margin: 10px 0;
+    }
+    .hero-wrepper {
+        padding: 120px 0;
+        padding-left: 50px;
+    }
+    .hero-wrepper h1 {
+        font-size: 40px; 
+        line-height: 49px;
+    }
+
+    .hero-wrepper h4 {
+        font-size: 26px; 
+    }
+    .hero-area.owl-carousel.owl-loaded.owl-drag .owl-nav .owl-prev { 
+        left: 3%; 
+    }
+    a.slider-play { 
+        left: 57%; 
+    }
+    .services-area {
+        padding-bottom: 100px;
+        padding-top: 10px;
+        background: #f5f5f5;
+    }
+    .services-area .services-box {
+        margin-top: 70px;
+    }
+    .about-wrepper h3 {
+        font-size: 30px; 
+    }
+    .about-wrepper h5 {
+        font-size: 14px; 
+    }
+    .about-wrepper { 
+        bottom: 10px;
+        left: 20px; 
+    }
+    .about-box img {
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+        object-position: right;
+    }
+    .customars-area .row.pt-40 {
+        padding-top: 0;
+    }
+    .customars-brand img {
+        width: 100%;
+        margin-top: 35px;
+    }
+    .fSMwiget {
+        width: 19%;
+        height: 200px;
+    }
+    .fSMwiget h5 { 
+        font-size: 17px; 
+    }
+
+    .fSMwiget ul li a {
+        font-size: 12px; 
+    }
+    .fSMwiget ul li {
+        line-height: 19px;
+    }
+
+    .footer-wiget-right.fSMwiget{
+        padding-left: 0;
+        height: 400px;
+    }
+    
+    .footer-wiget-right.fSMwiget::after{
+        display: none
+    }
+    .mega-menu .menu-list h5 {
+        font-size: 22px;
+    }
+    .mega-menu .menu-list ul li a { 
+        font-size: 16px; 
+    }
+    .mega-menu .menu-list ul li {
+        line-height: 22px;
+    }
+    .mega-menu .menu-list p {
+        font-size: 13px; 
+        margin-top: 15px; 
+        line-height: 18px;
+    }
+
+    .mega-menu .menu-list a.lst-teg {
+        position: absolute;
+        bottom: -90px;
+        font-size: 12px; 
+    }
+    .mega-menu { 
+        padding-bottom: 95px; 
+    }
+    .services-hero.megnet-hero.client-hero .hero-wreppers h1 { 
+        font-size: 60px; 
+    }
+    .services-hero.megnet-hero.client-hero .hero-wreppers h4 { 
+        font-size: 18px;
+    }
+
+    .hero-img img {
+        display: none;
+    }
+    h4.Certification-title { 
+        font-size: 25px; 
+    }
+    .inner-intro ul li a { 
+        font-size: 16px;
+    }
+    .inner-right-side {
+        margin-top: 100px;
+    }
+    .banner-area h1 { 
+        font-size: 36px;
+    }
+    .organization-area { 
+        background-size: 100%; 
+        background-color: #fdfaf3;
+        position: relative;
+        z-index: 2;
+    }
+    .organization-area:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+    .organization-area h1 { 
+        color: #fff;
+    }
+    .services-hero .hero-wreppers {
+        padding: 40px 0;
+    }
+    .services-hero.megnet-hero .hero-wreppers h1 { 
+        font-size: 42px; 
+        line-height: 50px;
+    }
+    .services-hero .hero-wreppers h4 { 
+        font-size: 16px;
+    }
+    .services-hero .hero-wreppers a { 
+        line-height: 25px;
+        padding: 5px 12px; 
+    }
+    .report-area .report-wrepper h3 {
+        margin-top: 50px; 
+        margin-bottom: 90px;
+    }
+
+    .report-area .report-wrepper h3:after {
+        content: "";
+        position: absolute;
+        width: 125px;
+        height: 60px;
+        background: url(../img/arrow.jpg);
+        top: 20px;
+        right: 80px;
+        background-size: cover;
+        transform: rotate(105deg)rotateX(190deg);
+    }
+    .services-hero .hero-wreppers h1 { 
+        font-size: 52px; 
+        line-height: 52px;
+    }
+
+    .srervices-box h5 {
+        font-size: 17px;
+    }
+
+    .srervices-box img {
+        width: 70px; 
+    }
+    .srervices-box p {
+        line-height: 20px; 
+        font-size: 15px;
+    }
+    .section-title.pt-120.pb-50 {
+        margin: 0;
+        line-height: 0;
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+    .servic-area .section-title h2 {
+        font-size: 36px;
+        padding-bottom: 0;
+    }
+    .account-wrepper.pt-100 {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    .account-wrepper h2 {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+    }
+    .account-wrepper {
+        padding-top: 30px;
+    }
+    .lServces {
+        margin-top: 50px;
+    }
+    .linkedIn-services .lServces p {
+        color: #7f7f7f;
+        margin: 0;
+        line-height: 5px;
+        padding-top: 16px;
+    }
+    .busness-wrepper {
+        position: absolute;
+        top: 120px;;
+        text-align: center;
+        left: 50%;
+        transform: translate(-50%);
+        width: 100%;
+    }
+    div#particles-js { 
+        position: relative;
+    }
+    .busness-wrepper h1 { 
+        line-height: 45px; 
+    } 
+
+    .srervices-box {
+        padding-top: 50px;
+    }
+    .services-hero.servicesTwo {
+        background: #fcf9f2;
+        background-image: url(../img/services2.jpg);
+        background-size: cover;
+        background-position: right;
+        position: relative;
+        z-index: 2;
+    }
+    .services-hero.servicesTwo:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        z-index: -1;
+        top: 0;
+        left: 0;
+    }
+    .services-hero.servicesTwo .hero-wreppers h1 { 
+        color: #fff;
+    }
+    .services-hero.servicesTwo .hero-wreppers h4 {
+        color: #ccc;
+        font-size: 20px;
+    }
+    .education-wrepper.pt-120 {
+        padding-top: 0;
+    }
+    .education-wrepper h2 {
+        font-size: 42px;
+        margin-top: 50px;
+    }
+    .effectiv-box h1 {
+        margin: 0;
+        padding: 0;
+        margin-right: 20px;
+        font-size: 50px;
+        color: #44712E;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: 400;
+        line-height: 60px;
+    }
+    .effectiv-box {
+        background: #fff;
+        margin-top: 50px;
+        padding: 25px;
+        width: 100%;
+        display: flex;
+        margin-bottom: 50px;
+    }
+    .second-step {
+        padding: 0;
+        background: #FCF9F2;
+    }
+    .organization-area.services-two { 
+        background-size: cover; 
+    }
+    .second-step .education-wrepper p {
+        padding-right: 0;
+    }
+    .second-step .education-wrepper {
+        padding-right: 0px;
+    }
+    a.open {
+        display: block;
+    }
+    .herder-bottom .menu-area {
+        display: none;
+    }
+    .herder-bottom { 
+        height: 75px; 
+        position: relative;
+    }
+    a.open {
+        top: 15px;
+        color: #485d69;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .services-area {
+        padding-bottom: 100px;
+        padding-top: 10px;
+        background: #f5f5f5;
+    }
+    .services-area .services-box {
+        margin-top: 70px;
+    }
+    .header-top { 
+        text-align: center !important;
+    }
+    .herder-bottom .menu-area { 
+        display: none;
+    }
+    .herder-bottom { 
+        height: 70px; 
+    }
+    .logo-area img {
+        width: 160px;
+        height: 45px;
+    }
+   
+    a.slider-play {
+        display: none;
+    }
+    .customars-brand img {
+        width: 100%;
+        margin-top: 0;
+        margin: auto;
+    }
+    .fSMwiget ul li {
+        line-height: 20px;
+    }
+    .footer-wiget-right.fSMwiget {
+        width: 100%;
+        position: relative;
+        padding-left: 0;
+        margin-top: 20px;
+    }
+    .footer-wiget-right.fSMwiget:after {
+        display: none;
+    }
+    .footer-wiget-right.fSMwiget p {
+        line-height: 22px; 
+        font-size: 12px; 
+        padding-bottom: 10px;
+    }
+    .footer-bottm p { 
+        font-size: 11px; 
+    }
+    .about-wrepper { 
+        bottom: 10px;
+        left: 20px; 
+    }
+    .about-wrepper h5 {
+        font-size: 12px; 
+        line-height: 20px;
+    }
+    .header-top ul li a { 
+        font-size: 12px; 
+        margin: 0px 0;
+    }
+    .header-top ul li a.middle-list {
+        margin: 0px 0px;
+        border-right: 1px solid #fff;
+        border-left: 1px solid #fff;
+        padding: 0 5px;
+    }
+    .hero-wrepper h1 {
+        font-size: 26px;
+        font-family: Source Sans Pro;
+        font-weight: 100;
+        line-height: 30px;
+        text-align: center;
+    }
+    .hero-wrepper h4 {
+        font-size: 14px; 
+        line-height: 20px;
+        text-align: center;
+    }
+    .hero-area.owl-carousel.owl-loaded.owl-drag .owl-nav .owl-prev {
+        display: none;
+    }
+    .hero-area.owl-carousel.owl-loaded.owl-drag .owl-nav .owl-next {
+        display: none;
+    }
+    .hero-wrepper {
+        padding: 60px 0;
+    }
+    .hero-area.owl-carousel.owl-loaded.owl-drag .owl-dots { 
+        height: 40px; 
+    }
+    .services-area .services-box h2 { 
+        font-size: 32px; 
+    }
+    .services-area .services-box p {
+        font-size: 13px; 
+        padding-bottom: 0px;
+        line-height: 20px;
+    }
+    .theme-btn {
+        font-size: 12px; 
+        padding: 0px 8px; 
+        line-height: 24px;
+    }
+    .title h2 {
+        font-size: 26px; 
+    }
+    .about-area .title h2 {
+        font-size: 26px; 
+    }
+    .about-wrepper h3 {
+        font-size: 22px; 
+    }
+    .about-box img {
+        width: 100%;
+        height: 280px;
+    }
+    .fSMwiget {
+        width: 100%;
+        display: inline-block;
+        overflow: hidden;
+        height: auto;
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .footer-wiget-right.fSMwiget a { 
+        line-height: 20px;
+        font-size: 11px; 
+    }
+    .hero-img img {
+        display: none;
+    }
+    .ser-feture .serFbox {
+        text-align: center;
+        padding: 5px 0;
+    }
+    h4.Certification-title {
+        margin-bottom: 50px;
+        font-size: 26px; 
+    }
+    .Certification-p-title {
+        margin-bottom: 0;
+    }
+    .services-hero.megnet-hero.client-hero .hero-wreppers h1 {
+        font-size: 33px;
+        line-height: 40px;
+    }
+    .services-hero.megnet-hero.client-hero .hero-wreppers h4 {
+        font-size: 14px;
+    }
+    .ser-feture .serFbox h5 { 
+        font-size: 16px;
+    }
+    h4.Certification-title { 
+        font-size: 22px;
+    }
+    .inner-right-side {
+        margin-top: 100px;
+    }
+    
+    .organization-area { 
+        background-size: cover; 
+        background-color: #fdfaf3;
+        position: relative;
+        z-index: 2;
+    }
+    .organization-area:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        top: 0;
+        left: 0;
+        z-index: -1;
+    } 
+    .organization-area h1 { 
+        font-size: 31px;
+        padding-bottom: 60px;
+        color: #fff;
+    }
+    .inner-intro ul {
+        padding: 30px 0;
+        overflow: hidden;
+        display: block;
+        text-align: center;
+    }
+    .innner-articale-wrepper { 
+        border-right: none;
+        padding-right: 0;
+    }
+    .inner-hero .inner-wreppr h1 { 
+        font-size: 43px; 
+    }
+    .inner-intro ul li a { 
+        font-size: 16px;
+    }
+body p, a{
+    font-size: 14px;
+}
+.innner-articale-wrepper h3 {
+    font-size: 24px; 
+}
+.inner-right-side h2 {
+    font-size: 22px; 
+}
+a.right-btn.theme-btn { 
+    font-size: 13px;
+}
+.banner-area h1 { 
+    font-size: 28px;
+}
+.banner-area a { 
+    padding: 0 30px; 
+    line-height: 30px; 
+}
+
+.organization-area {
+    padding: 65px 0; 
+}
+.services-hero.megnet-hero { 
+    background-size: cover; 
+    position: relative;
+    z-index: 2;
+}
+.services-hero.megnet-hero:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.report-area .report-wrepper h3:after {
+    display: none;
+}
+.report-area .report-wrepper h3 {
+    margin-top: 50px;
+    text-align: center;
+    display: block;
+    color: #7f7f7f;
+    position: relative;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+.report-form p.requierd {
+    text-align: left; 
+}
+input[type="submit"] {
+    line-height: 0;
+    width: 100px; 
+    padding: 15px; 
+}
+.services-hero.megnet-hero .hero-wreppers h1 { 
+    font-size: 55px; 
+    line-height: 55px; 
+    padding-bottom: 15px;
+    color: #fff;
+}
+.services-hero .hero-wreppers h4 {
+    color: #ccc;
+    font-size: 18px;
+}
+.services-hero .hero-wreppers a { 
+    padding: 8px 22px; 
+    margin-top: 15px;
+}
+.report-form { 
+    padding: 20px;
+}
+.report-form img {
+    width: 140px;
+    display: block;
+    margin-bottom: 25px;
+}
+span.current {
+    font-size: 11px;
+}
+.nice-select:after {
+    border-bottom: 5px solid #fff;
+    border-right: 5px solid #999; 
+    height: 5px;
+    margin-top: -3px; 
+    right: 10px; 
+}
+.report-form ::placeholder {
+    font-size: 11px;
+}
+.inner-hero.press-hero .inner-wreppr h1 { 
+    font-size: 34px; 
+    line-height: 42px; 
+}
+.press-box h4 { 
+    font-size: 21px;
+}
+.section-title.pt-120.pb-50 {
+    margin: 0;
+    line-height: 0;
+    padding-top: 70px;
+    padding-bottom: 0;
+}
+.servic-area .section-title h2 {
+    font-size: 27px;
+    padding-bottom: 0;
+}
+.account-wrepper.pt-100 {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.account-wrepper {
+    padding-top: 30px;
+}
+.lServces {
+    margin-top: 50px;
+}
+.linkedIn-services .lServces p {
+    color: #7f7f7f;
+    margin: 0;
+    line-height: 22px;
+    padding-top: 16px;
+}
+.services-hero {
+    background: #f5f5f7;
+    background-image: url(../img/services.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 2;
+}
+.services-hero:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.account-wrepper h2 { 
+    font-weight: 400;
+    font-size: 22px;
+    margin-top: 20px;
+}
+.header-detailse h5 { 
+    font-size: 16px;
+}
+.services-hero .hero-wreppers h1 { 
+    font-size: 48px; 
+    line-height: 46px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.linkedIn-services .lServces h5 {
+    font-size: 16px; 
+}
+.busness-wrepper h1 {
+    font-size: 31px;
+    color: #fff;
+    line-height: 33px; 
+}
+.busness-wrepper a {
+    display: inline-block;
+    padding: 0 15px;
+    background: white;
+    margin-top: 20px;
+    line-height: 40px;
+}
+.busness-wrepper {
+    position: absolute;
+    top: 115px; 
+}
+.services-hero.servicesTwo {
+    background: #fcf9f2;
+    background-image: url(../img/services2.jpg);
+    background-size: cover;
+    background-position: right;
+    position: relative;
+    z-index: 2;
+}
+.services-hero.servicesTwo:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+.services-hero.servicesTwo .hero-wreppers h1 { 
+    color: #fff;
+    font-size: 38px;
+}
+.services-hero.servicesTwo .hero-wreppers h4 {
+    color: #ccc;
+    font-size: 20px;
+}
+.education-wrepper.pt-120 {
+    padding-top: 0;
+}
+.second-step {
+    padding: 0;
+    background: #FCF9F2;
+    overflow: hidden;
+}
+.organization-area.services-two { 
+    background-size: cover;
+    padding: 65px 0;
+ 
+}
+
+.education-wrepper h2 {
+    font-size: 27px; 
+    line-height: 30px;
+    margin-top: 50px;
+}
+.second-step .education-wrepper p {
+    padding-right: 0;
+}
+
+.second-step .education-wrepper {
+    padding-right: 0px;
+}
+.effectiv-box h1 { 
+    margin-right: 10px;
+    font-size: 40px; 
+}
+.effectiv-box { 
+    padding: 32px; 
+}
+.effectiv-box p {
+    padding-right: 0;
+}
+.last-step img {
+    width: 185px;
+    margin-bottom: 50px;
+}
+.last-step p { 
+    font-size: 19px; 
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+    line-height: 24px;
+}
+.effectiv-box {
+    padding: 32px;
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+}
+.fixedWidth .education-img img {
+    width: 100%;
+    height: 309px !important;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.services-hero.servicesTwo .hero-wreppers {
+    padding: 60px 0;
+}
+a.open {  
+    display: block;
+    color: #485d69;
+}
+.education-img a.play-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    width: 60px;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: #004183;
+}
+.pst {
+    position: relative;
+}
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.header-top ul li a.middle-list {
+    margin: 5px;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+    padding: 0 10px;
+}
+.header-top ul li a {
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Source Sans Pro';
+    margin: 10px 0;
+}
+.header-top { 
+    text-align: center !important;
+}
+.hero-wrepper h1 {
+    font-size: 33px; 
+    line-height: 40px;
+    text-align: center;
+}
+.hero-wrepper {
+    padding: 85px 0;
+    text-align: center;
+}
+.hero-wrepper h4 {
+    font-size: 20px;
+    font-family: Source Sans Pro;
+    font-weight: 300;
+    line-height: 20px;
+}
+.hero-area.owl-carousel.owl-loaded.owl-drag .owl-nav .owl-prev { 
+    left: 4%; 
+}
+.fSMwiget {
+    width: 32%;
+    display: inline-block;
+    overflow: hidden;
+    height: 180px;
+    position: relative;
+}
+.fSMwiget h5 { 
+    font-size: 16px; 
+}
+.fSMwiget ul li a {
+    font-size: 12px; 
+}
+.fSMwiget ul li {
+    line-height: 20px;
+}
+.footer-wiget-right.fSMwiget {
+    width: 100%;
+    position: relative;
+    padding-left: 0;
+    margin-top: 20px;
+}
+.footer-wiget-right.fSMwiget:after {
+    display:none
+}
+.about-wrepper h3 {
+    font-size: 30px; 
+}
+.about-box img {
+    width: 100%;
+    height: 370px;
+}
+
+body #offcanvas-navicon { 
+    top: 78px; 
+}
+.hero-area.owl-carousel.owl-loaded.owl-drag .owl-dots { 
+    height: 64px; 
+}
+.title h2 {
+    font-size: 36px; 
+}
+.about-area .title h2 {
+    font-size: 36px; 
+}
+.services-hero.megnet-hero.client-hero .hero-wreppers h1 { 
+    font-size: 48px; 
+}
+.services-hero.megnet-hero.client-hero .hero-wreppers h4 { 
+    font-size: 18px;
+}
+.innner-articale-wrepper h3 {
+    font-size: 30px; 
+}
+.organization-area h1 { 
+    font-size: 45px; 
+}
+
+.inner-hero .inner-wreppr h1 { 
+    font-size: 50px; 
+}
+.inner-intro ul li a {
+    color: #fff;
+    font-size: 20px;
+}
+body p, a{
+    font-size: 16px;
+}
+.inner-right-side h2 {
+    font-size: 24px; 
+}
+a.right-btn.theme-btn { 
+    font-size: 16px;
+}
+.banner-area a {
+    display: inline-block;
+    padding: 0 40px;
+    background: white;
+    line-height: 40px;
+    border-radius: 2px;
+    box-shadow: 0px 0px 1px 1px #dadada;
+    margin-top: 15px;
+}
+.organization-area {
+    padding: 135px 0; 
+}
+.services-hero.megnet-hero .hero-wreppers h1 { 
+    font-size: 60px; 
+    line-height: 60px; 
+    color: #fff;
+}
+.services-hero .hero-wreppers h4 { 
+    font-size: 22px;
+    color: #ccc;
+}
+.services-hero .hero-wreppers a {
+    display: inline-block;
+    color: #fff;
+    background: #0073b1;
+    line-height: 25px;
+    padding: 8px 25px;
+    border-radius: 1px;
+    margin-top: 15px;
+}
+.report-area .report-wrepper h3:after {
+    display: block;
+    content: "";
+    position: absolute;
+    width: 89px;
+    height: 45px;
+    background: url(../img/arrow.jpg);
+    top: 20px;
+    right: 0px;
+    background-size: cover;
+    transform: rotate(105deg)rotateX(190deg);
+}
+.report-area .report-wrepper h3 { 
+    font-size: 22px;
+}
+input[type="submit"] { 
+    width: 135px; 
+    padding: 20px; 
+}
+.report-form { 
+    padding: 50px;
+}
+.report-form img {
+    width: 200px;
+    display: block;
+    margin-bottom: 40px;
+}
+span.current {
+    font-size: 14px;
+}
+.nice-select:after {
+    border-bottom: 15px solid #fff;
+    border-right: 15px solid #999; 
+    height: 5px;
+    margin-top: -12px; 
+    right: 28px;
+    top: 50%; 
+}
+.report-form ::placeholder {
+    font-size: 14px;
+}
+.inner-hero.press-hero .inner-wreppr h1 {
+    color: #ddebf3;
+    font-size: 42px;
+    font-family: Source Sans Pro;
+    font-weight: 100;
+    line-height: 52px;
+    padding-bottom: 16px;
+}
+.services-hero .hero-wreppers h1 {
+    font-family: 'Source Sans Pro';
+    font-size: 58px;
+    font-weight: 200;
+    line-height: 70px;
+    color: #fff;
+}
+.srervices-box {
+    margin-top: 50px;
+}
+
+.srervices-box img {
+    width: 70px;
+}
+
+.srervices-box h5 {
+    font-size: 19px;
+}
+.busness-wrepper h1 {
+    font-size: 36px; 
+    line-height: 45px; 
+}
+.busness-wrepper { 
+    top: 115px;  
+}
+.busness-wrepper a {
+    display: inline-block;
+    padding: 0 22px;
+    background: white;
+    margin-top: 30px;
+    line-height: 40px;
+}
+.linkedIn-services .lServces h5 {
+    font-size: 22px; 
+}
+.last-step p { 
+    font-size: 18px; 
+    padding-bottom: 25px;
+    margin-bottom: 30px;
+}
+.effectiv-box {
+    background: #fff;
+    margin-top: 50px;
+    padding: 50px;
+    width: 100%;
+    display: flex;
+}
+a.open {
+    top: -45px;
+}
+
+}
